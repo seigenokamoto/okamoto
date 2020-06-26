@@ -1,0 +1,23 @@
+
+.face{
+    color: yellow;
+    font-size: 200%;
+    text-align: center;
+}
+
+.context{
+    color: yellow;
+    font-size: 300%;
+    text-align: center;
+}
+
+body {
+    background-color: skyblue;
+  }
+
+  .star{
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translateX(-50%) translateY(-50%);
+  }
